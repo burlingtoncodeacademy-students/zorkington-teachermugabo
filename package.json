@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BurlingtonCodeAcademy/zorkington/issues"
   },
-  "homepage": "https://github.com/BurlingtonCodeAcademy/zorkington#readme"
+  "homepage": "https://github.com/BurlingtonCodeAcademy/zorkington#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
 }
